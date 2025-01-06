@@ -3,6 +3,9 @@
 Gachon univerity student (2024~)
 Smartsecurity as a Double Major / Algorithm Enthusiast
 
+### [프로필]
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aunps)](https://solved.ac/{aunps})  
+
 
 Graduation: 2024 Incheon Blockchain college Developer's course
 
