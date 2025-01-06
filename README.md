@@ -7,11 +7,13 @@ Smartsecurity as a Double Major / Algorithm Enthusiast
 Graduation: 2024 Incheon Blockchain college Developer's course
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
+  
 GAIROS (Blockchain academy of Gachon university)
 
 
 - 🌱 I’m currently learning
+- 
 Algorithm
 Blockchain
 Cryptography
@@ -19,6 +21,7 @@ Data commnication
 Ethereum Networks
 
 - 👯 I’m looking to collaborate on
+- 
 Desci projects 
 Zero-Knowledge Proof
 Chain analysis
