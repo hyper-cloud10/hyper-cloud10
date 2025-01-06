@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**hyper-cloud10/hyper-cloud10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Gachon univerity student (2024~)
 Smartsecurity as a Double Major / Algorithm Enthusiast
 
