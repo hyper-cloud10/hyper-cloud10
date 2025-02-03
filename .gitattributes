@@ -1,6 +1,2 @@
 *.lua linguist-language=Lua
 *.rs linguist-language=Rust
-
-git add .gitattributes
-git commit -m "Update .gitattributes"
-git push
