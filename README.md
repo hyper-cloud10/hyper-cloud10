@@ -43,4 +43,6 @@ My most recent idea is "Lazy propagation of Segment tree".
 -->
 
 ### [주로 사용하는 언어]
-[![hyper-cloud10 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-cloud10&layout=compact)](https://github.com/hyper-cloud10)
+[![hyper-cloud10 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-cloud10&layout=pie&theme=nord&hide_border=true)](https://github.com/hyper-cloud10)
+
+<img height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-cloud10&layout=pie&theme=nord&hide_border=true"/>
