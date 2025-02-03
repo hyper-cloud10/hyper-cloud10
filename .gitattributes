@@ -1,6 +1,4 @@
 *.rs linguist-detectable=true
 *.lua linguist-detectable=true
-
-*.lua linguist-language=Lua
-*.rs linguist-language=Rust
+README.md linguist-documentation
 
