@@ -41,3 +41,6 @@ I get inspired of Double angle formula, Power series When I was in Middle school
 My most recent idea is "Lazy propagation of Segment tree".
 
 -->
+
+### [주로 사용하는 언어]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-cloud10&layout=compact)
