@@ -19,13 +19,14 @@ Graduation: 2024 Incheon Blockchain college Developer's course
 - Algorithm
 - Blockchain
 - Cryptography
-- Data commnication
-- Ethereum Networks
 
  👯 I’m looking to collaborate on
 
-- Desci projects 
+- Desci projects
+- Anti surveillance technology
+- Open Source Research
 - Zero-Knowledge Proof
+- Reversing, Forensics
 - Chain analysis
 - AI Drug Discovery using Hyperlab.ai
 
