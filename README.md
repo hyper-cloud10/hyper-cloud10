@@ -1,33 +1,11 @@
 ## Hi there 👋
 
 Gachon univerity student (2024~)
-Smartsecurity as a Double Major / Algorithm Enthusiast / Bioinformatics
+Smartsecurity as a Double Major / Algorithm / Bioinformatics / Cryprography / Discrete Mathematics Enthusiast
 
 ### [프로필]
 
-
-Graduation: 2024 Incheon Blockchain college Developer's course
-
-
- 🔭 I’m currently working on
-  
-- GAIROS (Blockchain academy of Gachon university)
-
-
-🌱 I’m currently learning
-- Algorithm
-- Blockchain
-- Cryptography
-
- 👯 I’m looking to collaborate on
-
-- Desci projects
-- Anti surveillance technology
-- Open Source Research
-- Zero-Knowledge Proof
-- Reversing, Forensics
-- Chain analysis
-- AI Drug Discovery using Hyperlab.ai
+Currently, I don't know. Keep challenging.
 
  🤔 I’m looking for help with 
 - Anything;
