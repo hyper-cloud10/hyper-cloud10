@@ -1,25 +1,15 @@
-## Hi there 👋
+## Hi, I'm Jinhyoung Ahn 👋
 
-Gachon univerity student (2024~)
-Smartsecurity as a Double Major / Algorithm / Bioinformatics / Cryprography / Discrete Mathematics Enthusiast
+Gachon University — Smart Security (Double Major)
+Breaking things to understand how they work: exploitation, cryptography, on-chain security.
 
-### [프로필]
+- 🔐 Wargame — exploring [Dreamhack](https://dreamhack.io): binary exploitation, cryptography, reverse engineering, smart contract security
+- 🧮 Competitive programming — [BOJ](https://www.acmicpc.net), mainly in Lua, also C++
+  [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=aunps)](https://solved.ac/profile/aunps)
+- ⛓️ Research — Celestia DA, zkVM, on-chain IP licensing → [`Articles`](https://github.com/hyper-cloud10/Articles)
+- 🏫 Gairos — Gachon University Blockchain Society
 
-Currently, I don't know. Keep challenging.
+📫 X: [@unsafe_rust](https://x.com/unsafe_rust)
 
- 🤔 I’m looking for help with 
-- Anything;
-
-📫 How to reach me: 
-Instagram: @ajh_crypt
-
-Fun fact: 
-I get inspired of Double angle formula, Power series When I was in Middle school without prior learning
-
-My most recent idea is "Lazy propagation of Segment tree".
-
--->
-
-### [주로 사용하는 언어]
+### Languages
 [![hyper-cloud10 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-cloud10&layout=compact&theme=nord&hide_border=true)](https://github.com/hyper-cloud10)
-
