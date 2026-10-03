@@ -5,7 +5,9 @@ Breaking things to understand how they work: exploitation, cryptography, on-chai
 
 - 🔐 Wargame — exploring [Dreamhack](https://dreamhack.io): binary exploitation, cryptography, reverse engineering, smart contract security
 - 🧮 Competitive programming — [BOJ](https://www.acmicpc.net), mainly in Lua, also C++
-  [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=aunps)](https://solved.ac/profile/aunps)
+
+   [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=aunps)](https://solved.ac/profile/aunps)
+
 - ⛓️ Research — Celestia DA, zkVM, on-chain IP licensing → [`Articles`](https://github.com/hyper-cloud10/Articles)
 - 🏫 Gairos — Gachon University Blockchain Society
 
