@@ -36,6 +36,12 @@ I'm an undergraduate at Gachon University, majoring in Biologics and double-majo
 </tr>
 </table>
 
+<p align="center">
+  <img src="assets/ga-dna.png" width="90%" alt="Chromosome encoding and the genetic algorithm workflow" />
+  <br/>
+  <sub>Chromosome encoding and the genetic algorithm workflow</sub>
+</p>
+
 **Algorithm lab**
 
 https://ce.gachon.ac.kr/algorithm-lab
