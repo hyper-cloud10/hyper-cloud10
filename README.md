@@ -86,6 +86,12 @@ I'm an undergraduate at Gachon University, majoring in Biologics and double-majo
   <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square" />
 </p>
 
+## 🧮 Competitive Programming
+
+<p>
+  <a href="https://solved.ac/profile/aunps"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=aunps" alt="Solved.ac profile" /></a>
+</p>
+
 ## 🚀 Projects
 
 <details>
@@ -114,15 +120,15 @@ Practicing binary exploitation, cryptography, reverse engineering, and smart con
 
 <br/>
 
-<a href="https://solved.ac/profile/aunps"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=aunps" alt="Solved.ac profile" /></a>
-
 Mainly solving in Lua, also C++.
 
 </details>
 
 ## 🔗 Links
 
-- ⛓️ Research notes: [`Articles`](https://github.com/hyper-cloud10/Articles) — Celestia DA, zkVM, on-chain IP licensing
+- ⛓️ Research (Gairos × DSRV ResearchPedia), see [`Articles`](https://github.com/hyper-cloud10/Articles)
+  - **CLOBs on Blobs**: Compares Celestia-based central limit order book DEXs with AMMs, and how modular data availability (DAS, NMT, Blobstream) supports them.
+  - **Story IP (Part 1)**: Story Protocol's approach to protecting creators' IP, with programmable licenses that define how revenue is shared.
 - 🏫 Gairos — Gachon University Blockchain Society
 - 📫 X: [@unsafe_rust](https://x.com/unsafe_rust)
 
