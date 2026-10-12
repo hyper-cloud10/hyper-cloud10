@@ -17,34 +17,39 @@ I'm an undergraduate at Gachon University, majoring in Biologics and double-majo
 ## 🧪 Research
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**Multi-Pharmacology Structure-Activity Relationship lab (undergraduate researcher)**
-- Solid-phase peptide synthesis (SPPS) of cyclic hexapeptides
-- Molecular docking practice in Schrödinger Maestro
-- Molecular dynamics (MD): currently in the theory-learning stage
-
-</td>
-<td width="50%" valign="top">
-
-**Interests**
-- AI-based drug candidate discovery and computational drug design
-- Structure-based drug design and interpreting docking results
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💊 Pharmaceutical Chemistry</h3>
+      <p><b>Undergraduate researcher · Multi-Pharmacology Structure-Activity Relationship lab</b></p>
+      <ul>
+        <li>Solid-phase peptide synthesis (SPPS) of cyclic hexapeptides</li>
+        <li>Molecular docking practice in Schrödinger Maestro</li>
+        <li>Molecular dynamics (MD): theory-learning stage</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Interests</h3>
+      <ul>
+        <li>AI-based drug candidate discovery and computational drug design</li>
+        <li>Structure-based drug design and interpreting docking results</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🧬 Algorithm Lab</h3>
+      <a href="https://ce.gachon.ac.kr/algorithm-lab">
+        <img src="assets/ga-dna.png" width="90%" alt="Chromosome encoding and the genetic algorithm workflow" />
+      </a>
+      <br/>
+      <sub>Chromosome encoding and the genetic algorithm workflow</sub>
+      <br/><br/>
+      <a href="https://ce.gachon.ac.kr/algorithm-lab">
+        <img src="https://img.shields.io/badge/Visit%20Lab%20Website-3b1f5e?style=for-the-badge&logo=googlechrome&logoColor=fff9c4" alt="Visit Algorithm Lab website" />
+      </a>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <img src="assets/ga-dna.png" width="90%" alt="Chromosome encoding and the genetic algorithm workflow" />
-  <br/>
-  <sub>Chromosome encoding and the genetic algorithm workflow</sub>
-</p>
-
-**Algorithm lab**
-
-https://ce.gachon.ac.kr/algorithm-lab
 
 ## 🛠 Stack
 
