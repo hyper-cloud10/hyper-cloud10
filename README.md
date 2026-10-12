@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,100:4a7fb0&height=200&section=header&text=Jinhyoung%20Ahn&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Drug%20Discovery%20%C2%B7%20Algorithm&descAlignY=60&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1f5e,100:7b4fb0&height=200&section=header&text=Jinhyoung%20Ahn&fontSize=56&fontColor=fff9c4&fontAlignY=38&desc=AI%20%C2%B7%20Drug%20Discovery%20%C2%B7%20Algorithm&descAlignY=60&descSize=20" alt="header" />
 
 <p>
   <img src="https://img.shields.io/badge/Gachon%20Univ.-Biologics%20%26%20Smart%20Security-1f3a5f?style=flat-square" />
