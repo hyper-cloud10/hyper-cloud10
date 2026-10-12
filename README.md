@@ -9,6 +9,7 @@ Breaking things to understand how they work: exploitation, cryptography, on-chai
    [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=aunps)](https://solved.ac/profile/aunps)
 
 - ⛓️ Research — Celestia DA, zkVM, on-chain IP licensing → [`Articles`](https://github.com/hyper-cloud10/Articles)
+- 📄 [`pdf-reflux`](https://github.com/hyper-cloud10/pdf-reflux) — 다운로드 폴더를 감시해 논문을 주제별로 자동 분류·아카이빙하는 상시 실행 도구 (Claude API 분류, Python/SQLite)
 - 🏫 Gairos — Gachon University Blockchain Society
 
 📫 X: [@unsafe_rust](https://x.com/unsafe_rust)
