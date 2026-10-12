@@ -50,19 +50,30 @@ I'm an undergraduate at Gachon University, majoring in Biologics and double-majo
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="middle">
-      <h4>🧬 Genetic Algorithm</h4>
-      <p><b>Algorithm Lab</b></p>
-      <a href="https://ce.gachon.ac.kr/algorithm-lab">
-        <img src="https://img.shields.io/badge/Visit%20Lab%20Website-4a7fb0?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Algorithm Lab website" />
-      </a>
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <a href="https://ce.gachon.ac.kr/algorithm-lab">
-        <img src="assets/ga-dna.png" width="100%" alt="Chromosome encoding and the genetic algorithm workflow" />
-      </a>
-      <br/>
-      <sub>Chromosome encoding and the genetic algorithm workflow</sub>
+    <td colspan="2" valign="top">
+      <h4>💻 Algorithm Lab</h4>
+      <p><b>Genetic algorithm</b></p>
+      <table>
+        <tr>
+          <td width="50%" valign="middle">
+            <ul>
+              <li>Genetic algorithm</li>
+            </ul>
+          </td>
+          <td width="50%" valign="middle" align="center">
+            <a href="https://ce.gachon.ac.kr/algorithm-lab">
+              <img src="assets/ga-dna.png" width="100%" alt="Chromosome encoding and the genetic algorithm workflow" />
+            </a>
+            <br/>
+            <sub>Chromosome encoding and the genetic algorithm workflow</sub>
+          </td>
+        </tr>
+      </table>
+      <p align="center">
+        <a href="https://ce.gachon.ac.kr/algorithm-lab">
+          <img src="https://img.shields.io/badge/Visit%20Lab%20Website-4a7fb0?style=for-the-badge&logo=googlechrome&logoColor=fff9c4" alt="Visit Algorithm Lab website" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
