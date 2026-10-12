@@ -19,8 +19,8 @@ I'm an undergraduate at Gachon University, majoring in Biologics and double-majo
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3>💊 Pharmaceutical Chemistry Lab</h3>
-      <p><b>Undergraduate researcher · Multi-Pharmacology Structure-Activity Relationship lab</b></p>
+      <h3>💊 Multi-Pharmacology Structure-Activity Relationship lab</h3>
+      <p><b>Undergraduate researcher · Pharmaceutical chemistry</b></p>
       <table>
         <tr>
           <td width="50%" valign="top">
@@ -52,12 +52,13 @@ I'm an undergraduate at Gachon University, majoring in Biologics and double-majo
   <tr>
     <td colspan="2" valign="top">
       <h4>💻 Algorithm Lab</h4>
-      <p><b>Genetic algorithm</b></p>
+      <p><b>Undergraduate researcher</b></p>
       <table>
         <tr>
           <td width="50%" valign="middle">
             <ul>
               <li>Genetic algorithm</li>
+              <li>Bioinformatics</li>
             </ul>
           </td>
           <td width="50%" valign="middle" align="center">
