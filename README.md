@@ -1,22 +1,94 @@
-## Hi, I'm Jinhyoung Ahn 👋
+<div align="center">
 
-Gachon University — Smart Security (Double Major)
-Breaking things to understand how they work: exploitation, cryptography, on-chain security.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,100:4a7fb0&height=200&section=header&text=Jinhyoung%20Ahn&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Drug%20Discovery%20%C2%B7%20Algorithm&descAlignY=60&descSize=20" alt="header" />
 
-- 🔐 Wargame — exploring [Dreamhack](https://dreamhack.io): binary exploitation, cryptography, reverse engineering, smart contract security
-- 🧮 Competitive programming — [BOJ](https://www.acmicpc.net), mainly in Lua, also C++
+<p>
+  <img src="https://img.shields.io/badge/Gachon%20Univ.-Biologics%20%26%20Smart%20Security-1f3a5f?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-computational%20chemistry-4a7fb0?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-learning%20by%20building-2e7d5b?style=flat-square" />
+</p>
 
-   [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=aunps)](https://solved.ac/profile/aunps)
+</div>
 
-- ⛓️ Research — Celestia DA, zkVM, on-chain IP licensing → [`Articles`](https://github.com/hyper-cloud10/Articles)
-- 📄 [`pdf-reflux`](https://github.com/hyper-cloud10/pdf-reflux) — 논문 PDF 자동 분류·아카이빙 시스템
-  - 감지: Windows `PowerShell FileSystemWatcher` → `wsl -d Ubuntu -- bash -c`로 분류 스크립트 호출. WSL2가 `/mnt/c` 변경에 대한 inotify 이벤트를 못 받는 구조적 한계 때문에 감시 자체는 Windows 네이티브에서 수행
-  - 분류: 사용자 정의 YAML(카테고리 목록 + 경계 규칙)로 시스템 프롬프트를 런타임에 동적 생성, Claude API(Haiku)로 분류해 `{category, confidence, reason}` JSON 구조화 응답을 받음
-  - 데이터: SQLite로 구현(Supabase/Postgres 마이그레이션 예정). SHA-256 파일 해시로 경로가 달라져도 재다운로드 중복 탐지, API 실패/저확신 미분류를 `error_type`으로 구분해 기록
-  - 안전장치: PreToolUse 훅으로 파일 이동 목적지를 화이트리스트 경로로 강제, PDF 파서(pdfminer.six) CVE 회피용 의존성 버전 하한선 고정
+## 👋 About
+
+I'm an undergraduate at Gachon University, majoring in Biologics and double-majoring in Smart Security. I'm interested in **AI-driven and computational drug discovery**, the idea of filtering drug candidates on a computer before they reach the bench. In my undergraduate research lab, I work on peptide synthesis and molecular docking.
+
+## 🧪 Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Multi-Pharmacology Structure-Activity Relationship lab (undergraduate researcher)**
+- Solid-phase peptide synthesis (SPPS) of cyclic hexapeptides
+- Molecular docking practice in Schrödinger Maestro
+- Molecular dynamics (MD): currently in the theory-learning stage
+
+</td>
+<td width="50%" valign="top">
+
+**Interests**
+- AI-based drug candidate discovery and computational drug design
+- Structure-based drug design and interpreting docking results
+
+</td>
+</tr>
+</table>
+
+**Algorithm lab**
+
+https://ce.gachon.ac.kr/algorithm-lab
+
+## 🛠 Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square" />
+</p>
+
+## 🚀 Projects
+
+<details>
+<summary><b>📄 pdf-reflux</b> — Automatic classification and archiving system for paper PDFs</summary>
+
+<br/>
+
+- **Detection**: A Windows `PowerShell FileSystemWatcher` watches for download changes and calls the classification script via `wsl -d Ubuntu`. WSL2 does not receive inotify events for `/mnt/c` changes, so watching runs natively on Windows.
+- **Classification**: A system prompt is generated at runtime from a user-defined YAML file (category list and boundary rules). The Claude API (Haiku) returns structured JSON in the form `{category, confidence, reason}`.
+- **Data**: Implemented with SQLite; migration to Supabase (Postgres) is in progress. SHA-256 file hashes catch re-downloads even when the path differs. API failures and low-confidence unclassified files are recorded separately via `error_type`.
+- **Safeguards**: A PreToolUse hook restricts file move destinations to a whitelist of paths. The PDF parser (pdfminer.six) has its dependency version floor pinned to avoid known CVEs.
+
+</details>
+
+<details>
+<summary><b>🔐 Wargame & Security</b> — Dreamhack practice</summary>
+
+<br/>
+
+Practicing binary exploitation, cryptography, reverse engineering, and smart contract security through Dreamhack challenges.
+
+</details>
+
+<details>
+<summary><b>🧮 Competitive Programming</b> — BOJ</summary>
+
+<br/>
+
+<a href="https://solved.ac/profile/aunps"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=aunps" alt="Solved.ac profile" /></a>
+
+Mainly solving in Lua, also C++.
+
+</details>
+
+## 🔗 Links
+
+- ⛓️ Research notes: [`Articles`](https://github.com/hyper-cloud10/Articles) — Celestia DA, zkVM, on-chain IP licensing
 - 🏫 Gairos — Gachon University Blockchain Society
+- 📫 X: [@unsafe_rust](https://x.com/unsafe_rust)
 
-📫 X: [@unsafe_rust](https://x.com/unsafe_rust)
+## 📊 Languages
 
-### Languages
-[![hyper-cloud10 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-cloud10&layout=compact&theme=nord&hide_border=true)](https://github.com/hyper-cloud10)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-cloud10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
