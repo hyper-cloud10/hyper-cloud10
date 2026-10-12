@@ -21,60 +21,58 @@ I'm an undergraduate at Gachon University, majoring in Biologics and double-majo
     <td colspan="2" valign="top">
       <h3>💊 Multi-Pharmacology Structure-Activity Relationship lab</h3>
       <p><b>Undergraduate researcher · Pharmaceutical chemistry</b></p>
-      <table>
-        <tr>
-          <td width="50%" valign="top">
-            <ul>
-              <li>Solid-phase peptide synthesis (SPPS) of cyclic hexapeptides</li>
-              <li>Molecular docking practice in Schrödinger Maestro</li>
-              <li>Molecular dynamics (MD): theory-learning stage</li>
-            </ul>
-            <p><b>Interests</b></p>
-            <ul>
-              <li>AI-based drug candidate discovery and computational drug design</li>
-              <li>Structure-based drug design and interpreting docking results</li>
-            </ul>
-          </td>
-          <td width="50%" valign="middle" align="center">
-            <img src="assets/docking-pipeline.png" width="100%" alt="Protein-ligand interaction features fed into RF and DNN models to predict pKd" />
-            <br/>
-            <sub>Interaction features → RF / DNN → predicted pKd</sub>
-          </td>
-        </tr>
-      </table>
-      <p align="center">
-        <a href="https://sites.google.com/site/gacheondrlab/home?authuser=0">
-          <img src="https://img.shields.io/badge/Visit%20Lab%20Website-3b1f5e?style=for-the-badge&logo=googlechrome&logoColor=fff9c4" alt="Visit Pharmaceutical Chemistry Lab website" />
-        </a>
-      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="middle">
+      <ul>
+        <li>Solid-phase peptide synthesis (SPPS) of cyclic hexapeptides</li>
+        <li>Molecular docking practice in Schrödinger Maestro</li>
+        <li>Molecular dynamics (MD): theory-learning stage</li>
+      </ul>
+      <p><b>Interests</b></p>
+      <ul>
+        <li>AI-based drug candidate discovery and computational drug design</li>
+        <li>Structure-based drug design and interpreting docking results</li>
+      </ul>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <img src="assets/docking-pipeline.png" width="100%" alt="Protein-ligand interaction features fed into RF and DNN models to predict pKd" />
+      <br/>
+      <sub>Interaction features → RF / DNN → predicted pKd</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://sites.google.com/site/gacheondrlab/home?authuser=0">
+        <img src="https://img.shields.io/badge/Visit%20Lab%20Website-3b1f5e?style=for-the-badge&logo=googlechrome&logoColor=fff9c4" alt="Visit Pharmaceutical Chemistry Lab website" />
+      </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h4>💻 Algorithm Lab</h4>
       <p><b>Undergraduate researcher</b></p>
-      <table>
-        <tr>
-          <td width="50%" valign="middle">
-            <ul>
-              <li>Genetic algorithm</li>
-              <li>Bioinformatics</li>
-            </ul>
-          </td>
-          <td width="50%" valign="middle" align="center">
-            <a href="https://ce.gachon.ac.kr/algorithm-lab">
-              <img src="assets/ga-dna.png" width="100%" alt="Chromosome encoding and the genetic algorithm workflow" />
-            </a>
-            <br/>
-            <sub>Chromosome encoding and the genetic algorithm workflow</sub>
-          </td>
-        </tr>
-      </table>
-      <p align="center">
-        <a href="https://ce.gachon.ac.kr/algorithm-lab">
-          <img src="https://img.shields.io/badge/Visit%20Lab%20Website-4a7fb0?style=for-the-badge&logo=googlechrome&logoColor=fff9c4" alt="Visit Algorithm Lab website" />
-        </a>
-      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="middle">
+      <ul>
+        <li>Genetic algorithm</li>
+        <li>Bioinformatics</li>
+      </ul>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <img src="assets/ga-dna.png" width="100%" alt="Chromosome encoding and the genetic algorithm workflow" />
+      <br/>
+      <sub>Chromosome encoding and the genetic algorithm workflow</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://ce.gachon.ac.kr/algorithm-lab">
+        <img src="https://img.shields.io/badge/Visit%20Lab%20Website-4a7fb0?style=for-the-badge&logo=googlechrome&logoColor=fff9c4" alt="Visit Algorithm Lab website" />
+      </a>
     </td>
   </tr>
 </table>
